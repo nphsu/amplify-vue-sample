@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "amplifyvuesample",
+    "schemaGraphql": "s3://amplifyvuesample-20181209013603-deployment/amplify-appsync-files/schema.graphql.1544287079496",
+    "ResolverBucket": "amplifyvuesample-20181209013603-deployment",
+    "ResolverRootKey": "amplify-appsync-files",
+    "DeploymentTimestamp": "1544287079496"
+}
